@@ -6,11 +6,11 @@ import { RegisterFormComponent } from './register-form/registerform.component';
 const routes: Routes = [
   {
     path:"login",
-    component:LoginFormComponent
+    component: LoginFormComponent
   },
   {
     path:"register",
-    component:RegisterFormComponent
+    component: RegisterFormComponent
   }
 ];
 
